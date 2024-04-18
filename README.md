@@ -1,2 +1,2 @@
-npm i - install the package 
+npm i - install the package, 
 npm run dev - start the app
